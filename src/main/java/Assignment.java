@@ -20,11 +20,11 @@ public class Assignment {
     public Assignment() {
         // Students will initialize their variables here
         // Example (students should change these values):
-        myString = null;
-        myInt = 0;
-        myDouble = 0.0;
-        myBoolean = false;
-        myStringArray = null;
-        myIntArray = null;
+        myString = "hola";
+        myInt = 7;
+        myDouble = 2.4;
+        myBoolean = true;
+        myStringArray = new String[]{"bye", "cya", "later"};
+        myIntArray = new int[]{1, 2, 3, 4, 5};
     }
 }
